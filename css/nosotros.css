@@ -1,0 +1,30 @@
+.container-fluid{
+    background-color: rgb(23, 23, 19);
+    
+}
+.nav-link{
+    color: white;
+}
+.barra{
+    background-color: rgb(252, 243, 225);
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    
+}
+.navegador{
+    background-color: rgb(215, 131, 41);
+}
+.barranavegadora{
+    color: white;
+}
+.img{
+    width: 50%;
+    height: 50%;
+}
+.btn-primary{
+    background-color: darkgoldenrod;
+    border-color: darkgoldenrod;
+}
